@@ -1,4 +1,4 @@
-#include "include/PiedraPapelTijera.hpp"
+#include "PiedraPapelTijera.hpp"
 
 
 void PiedraPapelTijera::jugar(Usuario u) {

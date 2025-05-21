@@ -1,4 +1,4 @@
-#include "include/JuegoPalillos.hpp"
+#include "JuegoPalillos.hpp"
 
 
 int JuegoPalillos :: pedirNumero(int min, int max) {

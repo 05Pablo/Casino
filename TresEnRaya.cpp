@@ -1,4 +1,4 @@
-#include "include/TresEnRaya.hpp"
+#include "TresEnRaya.hpp"
 
 char tablero[TAMANO][TAMANO]= {
     {' ', ' ', ' '},

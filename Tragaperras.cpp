@@ -1,4 +1,4 @@
-#include "include/Tragaperras.hpp"
+#include "Tragaperras.hpp"
 
 /*girarCarrete= Función de tipo String que mediante un número al azar dentro del size del Vector Simbolos, elige uno de estos 
 */ 
